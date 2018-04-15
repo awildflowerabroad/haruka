@@ -1,3 +1,4 @@
 log.txt
 database.json
 .gitignore
+/node_modules
