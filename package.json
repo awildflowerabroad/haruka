@@ -1,9 +1,10 @@
 {
   "name": "haruka",
   "version": "1.0.0",
-  "description": "Harukas package.json",
+  "description": "Haruka the Red Panda Chatbot package.json",
   "main": "index.js",
-  "scripts": {
+  "private": true,
+  "engines": {
     "node": ">=6.0"
   },
   "repository": {

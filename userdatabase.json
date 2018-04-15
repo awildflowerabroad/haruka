@@ -1,0 +1,56 @@
+{
+    "users": {
+        "user_id": "",
+        "platform": "",
+        "language": "",
+        "info":{
+            "gender": 0,  
+            "nickname": "",  
+            "first_name": "",
+            "last_name": "",
+            "age": "",
+            "contact_info": { 
+                "email": "",
+                "blog_subscribtion": false,
+                "bot_subscription": false,
+                "phone_number":"",
+                "adress": {
+                    "street":"",
+                    "number":"",
+                    "city":"",
+                    "postal_code":"",
+                    "country":""
+                }
+            },
+            "hobbies": {
+                "pet": "",
+                "hiking": true,
+                "surfing": true,
+                "horseriding":true,
+                "biking":true,
+                "culinary": true,
+                "wellness":true
+            },
+            "travel_preferences": {
+                "average_number": true,
+                "average_distance": true,
+                "average_duration": true,
+                "continent": {
+                    "north_america":true,
+                    "south_america": true,
+                    "europe": true,
+                    "africa" : true,
+                    "middle_east": true,
+                    "asia": true,
+                    "oceania": true
+                },
+                "accommodation": {
+                    "hotel": true,
+                    "hostel": true,
+                    "airbnb": true,
+                    "couchsurfing": false
+                }
+            } 
+        }
+    }
+}
